@@ -1,6 +1,9 @@
 
 
 ![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zeromq_service_plugin?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zeromq_service_plugin?branch=master&svg=true)
+
+
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zeromq_service_plugin?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/zeromq_service_plugin?branch=master&svg=true)
 # ZeroMQ service MicroDrop plugin #
 
 This project implements a [MicroDrop][1] [plugin][2] to interface with a
